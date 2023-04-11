@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hariiin/react-todo-app.git/static/css/main.353358c6.css",
+    "main.js": "/hariiin/react-todo-app.git/static/js/main.caac8260.js",
+    "static/js/787.7f2c2da0.chunk.js": "/hariiin/react-todo-app.git/static/js/787.7f2c2da0.chunk.js",
+    "index.html": "/hariiin/react-todo-app.git/index.html",
+    "main.353358c6.css.map": "/hariiin/react-todo-app.git/static/css/main.353358c6.css.map",
+    "main.caac8260.js.map": "/hariiin/react-todo-app.git/static/js/main.caac8260.js.map",
+    "787.7f2c2da0.chunk.js.map": "/hariiin/react-todo-app.git/static/js/787.7f2c2da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.353358c6.css",
+    "static/js/main.caac8260.js"
+  ]
+}
